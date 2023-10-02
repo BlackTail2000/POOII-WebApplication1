@@ -1,0 +1,62 @@
+C:\Users\Julio Pretell\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Julio Pretell\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\Julio Pretell\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\Julio Pretell\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\Julio Pretell\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\Julio Pretell\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\Julio Pretell\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\Julio Pretell\Desktop\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\Julio Pretell\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Julio Pretell\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio Pretell\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Julio Pretell\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Julio Pretell\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Julio Pretell\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Julio Pretell\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Julio Pretell\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Julio Pretell\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Julio Pretell\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\Julio Pretell\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\Julio Pretell\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\Julio Pretell\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Julio Pretell\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Julio Pretell\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Julio Pretell\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Julio Pretell\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Julio Pretell\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+C:\Users\Julio Pretell\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\Julio Pretell\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\Julio Pretell\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\Julio Pretell\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Julio Pretell\Desktop\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+E:\POOII\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+E:\POOII\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+E:\POOII\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.staticwebassets.runtime.json
+E:\POOII\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+E:\POOII\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+E:\POOII\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+E:\POOII\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+E:\POOII\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+E:\POOII\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+E:\POOII\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+E:\POOII\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+E:\POOII\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+E:\POOII\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+E:\POOII\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+E:\POOII\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cache
+E:\POOII\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cs
+E:\POOII\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\POOII\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+E:\POOII\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+E:\POOII\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+E:\POOII\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+E:\POOII\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+E:\POOII\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+E:\POOII\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\POOII\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+E:\POOII\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+E:\POOII\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+E:\POOII\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+E:\POOII\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+E:\POOII\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+E:\POOII\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
